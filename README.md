@@ -10,6 +10,22 @@ Let us know about your work and get some FREE MYG Coins from us :)
 Visit us at https://mygcoin.com or Discord: https://discord.gg/QskBFZJs9b
 
 
+<b>You will need:</b>
+- your own FiveM Server e.g. files from: https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/
+MYG Coin Plugin works with the standard template (ESX / txAdmin). Latest successful test with: Build 5733
+
+- the MYG Coin Plugin from https://github.com/MyGCoin/MYG-FiveM-Script/
+- MySQL / php MyAdmin Database and for FiveM the „mysql-async“ Plugin https://github.com/brouznouf/fivem-mysql-async
+
+You will need to know how to setup a FiveM Server, how to handle a Database like MySQL via phpMyAdmin and (optional) to code in php or any other language. This is NOT part of this paper or Discord-Discussions!
+Base
+
+<b>How to install the Script:</b>
+
+1. Place the MYGcoin Plugin into your FiveM Folder (e.g. ...fivem/txData/Server/resources/MYGcoin)
+2. Make sure to start the Plugin in your Server Config File with: "Start MYGcoin"
+
+
 
 ![MYG-Preview FiveM](https://github.com/MyGCoin/MYG-FiveM-Script/blob/main/screenfivem.png)
 
