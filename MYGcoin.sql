@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS users (
+	MYGcoin INT NULL
+);
+
+INSERT INTO `users` (MYGcoin) VALUES
+	('0')
+;
