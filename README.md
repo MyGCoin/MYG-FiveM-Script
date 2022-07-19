@@ -1,4 +1,4 @@
 # MYG FiveM Script
- adds MYG Logo and diplays amount of coins
+ adds MYG Logo and displays amount of coins
 
 
