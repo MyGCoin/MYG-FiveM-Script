@@ -25,7 +25,7 @@ You will need to know how to setup a FiveM Server, how to handle a Database like
 2. Make sure to start the Plugin in your Server Config File with: "Start MYGcoin"
 3. Import the MYGcoin.sql to your Database
 
-See the full PoC integration paper for FiveM: https://mygcoin.com/MYG%20Coin%20FiveM.pdf
+See the full proof of concept integration paper for FiveM: https://mygcoin.com/MYG%20Coin%20FiveM.pdf
 
 ![MYG-Preview FiveM](https://github.com/MyGCoin/MYG-FiveM-Script/blob/main/screenfivem.png)
 
