@@ -7,7 +7,7 @@ This scripts just to give you an idea how to add the MYG logo and values to Five
 and enable you to have a easier start on implementing MYG further into your game.
 
 Let us know about your work and get some FREE MYG Coins from us :)
-Visit us at https://mygcoin.com or Discord: https://discord.gg/QskBFZJs9b
+Visit us at <a href="https://mygcoin.com" target=_myg1>MYGCoin.com</a> or Discord: https://discord.gg/QskBFZJs9b
 
 
 <b>You will need:</b>
